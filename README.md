@@ -34,5 +34,5 @@
 -------------------------------------
 
 ## :tada: AnimatedSwitcher Widget
-<img src='https://github.com/DeveloperOrpon/Animated-Widget-Flutter-App/blob/main/ScreenShots/AnimatedSwitch.gif?raw=true' width="300px" height="300px" alt='Video Prohressbar'/>
+<img src='https://github.com/DeveloperOrpon/Animated-Widget-Flutter-App/blob/main/ScreenShots/AnimatedSwith.gif?raw=true' width="300px" height="300px" alt='Video Prohressbar'/>
 ----------------------------------
